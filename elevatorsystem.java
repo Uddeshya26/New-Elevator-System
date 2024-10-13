@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
+// break this into multiple files and class based on business logic
 public class Elevator{
     enum Direction {
         UP, DOWN
